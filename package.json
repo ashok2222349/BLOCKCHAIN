@@ -1,0 +1,30 @@
+{
+  "name": "main-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pratik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "connect-busboy": "0.0.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "express-handlebars": "^4.0.4",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "hbs": "^4.1.1",
+    "ipfs-http-client": "^44.2.0",
+    "ipfs-mini": "^1.1.5",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "solc": "^0.5.16",
+    "truffle": "^5.1.31"
+  }
+}
